@@ -1,1 +1,2 @@
-This is the description of my repo
+## Objective\n\nPractice creating branches,merging,and resolving conflicts using Git and GitHub.
+Modification in main branch.
